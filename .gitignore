@@ -1,0 +1,13 @@
+# 用户自己的 scope 与输出，不要提交
+scope.json
+report.md
+snapshots/*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Mac
+.DS_Store

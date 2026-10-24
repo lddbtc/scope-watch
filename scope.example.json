@@ -1,0 +1,13 @@
+{
+  "_comment": "复制本文件为 scope.json 并填入你已获授权的目标。每个目标必须带 program_url 作为授权证明，否则工具拒绝运行。",
+  "targets": [
+    {
+      "domain": "example.com",
+      "program_url": "https://hackerone.com/example/programs/example-com"
+    },
+    {
+      "domain": "target-app.io",
+      "program_url": "https://bugcrowd.com/target-app"
+    }
+  ]
+}
